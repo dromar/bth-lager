@@ -1,4 +1,6 @@
 {
     "api_key": "effb712f69ec4fb5de8c1443058421d4",
-    "base_url": "https://lager.emilfolino.se/v2"
+    "base_url": "https://lager.emilfolino.se/v2",
+    "backgroundColor": "#938e94",
+    "foregroundColor": "#5d5c61"
 }
