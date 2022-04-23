@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, Image } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import AppHeader from "./components/AppHeader.tsx";
 import Stock from "./components/Stock.tsx";
-import { useFonts, Inter_900Black } from '@expo-google-fonts/inter';
+
 
 
 export default function App() {
